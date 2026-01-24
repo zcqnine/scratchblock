@@ -1,0 +1,15 @@
+apple
+book
+cat
+dog
+pen
+desk
+school
+teacher
+student
+water
+food
+family
+friend
+happy
+love
